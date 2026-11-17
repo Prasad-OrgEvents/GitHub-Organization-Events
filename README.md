@@ -1,2 +1,2 @@
 # GitHub-Organization-Events
-Repository for testing public organization events API
+Testing GitHub Organization Events API through AutomationEdge.
